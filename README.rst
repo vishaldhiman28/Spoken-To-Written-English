@@ -14,7 +14,7 @@ Installation:
 
   You can install the module using Python Package Index using the below command.
 
-.. code-block:: python
+.. code-block
 
    >>pip3 install spoken2written
 
@@ -25,7 +25,7 @@ Usage:
 +++++
 
 **Correct one:**
-.. code-block :: python3
+.. code-block
     
     >>python3
 	>>from spoken2written import sp2wr
@@ -45,7 +45,7 @@ Usage:
 
 
 **Wrong One:**
-.. code-block :: python3
+.. code-block:: 
     
     >>python3
 	>>> from spoken2written import sp2wr
