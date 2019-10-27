@@ -14,9 +14,9 @@ Installation:
 
   You can install the module using Python Package Index using the below command.
 
-.. code-block
+.. code-block:: python
 
-   >>pip3 install spoken2written
+   >>python3 setup.py install  
 
 
 
