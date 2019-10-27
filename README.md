@@ -22,7 +22,7 @@ This is a Python module which can that can convert a paragraph of spoken english
 
 **Correct one:**
    ```
-   	>>python3
+   >>python3
 	>>from spoken2written import sp2wr
 	>>sp2wr.convert_sp_to_wr()
 	>>
@@ -42,7 +42,7 @@ This is a Python module which can that can convert a paragraph of spoken english
 	
 **Wrong One:**
     
-    	>>python3
+    >>python3
 	>> from spoken2written import sp2wr
 	>> sp2wr.convert_sp_to_wr()
 
