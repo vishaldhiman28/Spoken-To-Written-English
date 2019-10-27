@@ -65,10 +65,7 @@ Usage:
 +++++
 Note: 
 +++++
-		**For Above input  paragraph the incorrect output was a result of improper use of spaces after '.' and ',' .
-          So corrently you have to keep in mind while writting the paragraph to consider proper use of spaces.
-          Beacuse this is not an intelligence based program this is simple rule based.
-          I will keep be updating the rules so that it can cover maximum cases.**
+	**For the Above input paragraph the incorrect output as a result of improper use of spaces after '.' and ','.  			So currently you have to keep in mind while writing the paragraph to consider proper use of spaces. Because this is not 	an intelligence-based program this is simple rule-based. I will keep being updating the rules so that it can cover 		maximum cases.**
 
 
 +++++
