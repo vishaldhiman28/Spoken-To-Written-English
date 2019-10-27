@@ -45,7 +45,7 @@ Usage:
 
 
 **Wrong One:**
-.. code-block:: 
+.. code-block:: python3
     
     >>python3
 	>>> from spoken2written import sp2wr
