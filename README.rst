@@ -26,7 +26,7 @@ Usage:
 
 **Correct one:**
 
-.. code-block
+.. code-block:: python
     
     	>>python3
 	>>from spoken2written import sp2wr
