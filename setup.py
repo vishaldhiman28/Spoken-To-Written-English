@@ -17,7 +17,6 @@ setup(
       author='Vishal Dhiman',
       author_email='cse_vishal@hotmail.com',
       url='https://github.com/cyberdhiman/Spoken-To-Written-English',
-      packages=['distutils', 'distutils.command'],
       classifiers = [
      					 'Intended Audience :: Developers',
       					'Programming Language :: Python'
