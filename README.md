@@ -13,7 +13,7 @@ This is a Python module which can that can convert a paragraph of spoken english
   
   You can install the module using Python Package Index using the below command.
    ```
-   >>python3 setup.py
+   >>python3 setup.py install
    ```
 
 
