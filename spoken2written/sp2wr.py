@@ -103,7 +103,7 @@ class SpokenToWritten:
                     self.ouptut_para=self.ouptut_para+" "+front+"$"+str(numbers[word.lower()])+last
                     i=i+2
 
-                elif word.lower() in tuples.keys():
+                elif word.lower() in tuples.keys() and len(next_word)==1:
                     #when word is of form Triple A
                     self.ouptut_para=self.ouptut_para+" "+front_n+(next_word*tuples[word.lower()])+last_n
                     i=i+2
