@@ -16,7 +16,7 @@ setup(
       description='Convert Spoken English given as text to Written English ',
       author='Vishal Dhiman',
       author_email='cse_vishal@hotmail.com',
-      url='https://github.com/cyberdhiman/',
+      url='https://github.com/cyberdhiman/Spoken-To-Written-English',
       packages=['distutils', 'distutils.command'],
       classifiers = [
      					 'Intended Audience :: Developers',
