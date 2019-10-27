@@ -130,4 +130,3 @@ def convert_sp_to_wr():
     obj_spoken.show_output()
 
 
-convert_sp_to_wr()
