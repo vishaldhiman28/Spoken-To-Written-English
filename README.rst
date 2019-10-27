@@ -25,9 +25,10 @@ Usage:
 +++++
 
 **Correct one:**
+
 .. code-block
     
-    >>python3
+    	>>python3
 	>>from spoken2written import sp2wr
 	>>sp2wr.convert_sp_to_wr()
 	>>
@@ -45,11 +46,12 @@ Usage:
 
 
 **Wrong One:**
-.. code-block:: python3
+
+.. code-block:: python
     
-    >>python3
-	>>> from spoken2written import sp2wr
-	>>> sp2wr.convert_sp_to_wr()
+    	>>python3
+	>> from spoken2written import sp2wr
+	>> sp2wr.convert_sp_to_wr()
 
 	[IN]:Enter Your paragraph of spoken english:
 	Hi! My name is Bruce.I am a Programmer.I try to wake up before 6 A M.I always come home after 7 P M.I earn hundred dollars per day.My contact  number contains double 5,quadruple 8, single 9 and triple 4.Recently, My weight got double the weight of my friend whom I call C M.
